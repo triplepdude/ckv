@@ -1,0 +1,7 @@
+ckv
+run_tests
+*.o
+*.ckv
+*.ckv.tmp
+*.out
+.vscode/
