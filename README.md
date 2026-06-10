@@ -1,4 +1,4 @@
-# ckv
+# ckv - An AI Experiment. Written by Fable 5 within 10 minutes.
 
 A tiny persistent key-value store written in C11 with zero dependencies.
 
